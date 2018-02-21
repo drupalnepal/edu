@@ -1,0 +1,42 @@
+name: Edu
+type: profile
+description: 'Drupal distribution for educational institution.'
+core: 8.x
+
+distribution:
+  name: Education
+
+dependencies:
+  - config
+  - toolbar
+  - ckeditor
+  - path
+  - quickedit
+  - views
+  - views_ui
+  - datetime
+  - datetime_range
+  - image
+  - options
+  - telephone
+  - contact
+  - block_content
+  - automated_cron
+  - field_ui
+  - search
+  - menu_ui
+  - responsive_image
+  - taxonomy
+  - help
+  - history
+  - comment
+  - shortcut
+  - tracker
+  - action
+  - inline_form_errors
+  - tour
+  - workflows
+  - ban
+  - layout_discovery
+  - language
+  - locale

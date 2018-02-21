@@ -1,0 +1,16 @@
+<?php
+
+/**
+* @file
+* Install, update and uninstall functions for the edu install profile.
+*/
+
+/**
+ * Implements hook_install().
+ *
+ * Performs actions to set up the site for this profile.
+ *
+ * @see system_install()
+ */
+function edu_install() {
+}
